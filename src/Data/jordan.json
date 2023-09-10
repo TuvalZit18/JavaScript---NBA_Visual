@@ -1,0 +1,39 @@
+{
+  "titles": {
+    "1": { "year": "1991", "team": "Chicago Bulls" },
+    "2": { "year": "1992", "team": "Chicago Bulls" },
+    "3": { "year": "1993", "team": "Chicago Bulls" },
+    "4": { "year": "1996", "team": "Chicago Bulls" },
+    "5": { "year": "1997", "team": "Chicago Bulls" },
+    "6": { "year": "1998", "team": "Chicago Bulls" }
+  },
+  "final_mvps": {
+    "1": { "year": "1991", "team": "Chicago Bulls" },
+    "2": { "year": "1992", "team": "Chicago Bulls" },
+    "3": { "year": "1993", "team": "Chicago Bulls" },
+    "4": { "year": "1996", "team": "Chicago Bulls" },
+    "5": { "year": "1997", "team": "Chicago Bulls" },
+    "6": { "year": "1998", "team": "Chicago Bulls" }
+  },
+  "mvps": {
+    "1": { "year": "1988", "team": "Chicago Bulls" },
+    "2": { "year": "1991", "team": "Chicago Bulls" },
+    "3": { "year": "1992", "team": "Chicago Bulls" },
+    "4": { "year": "1996", "team": "Chicago Bulls" },
+    "5": { "year": "1998", "team": "Chicago Bulls" }
+  },
+  "allstars_mvps": {
+    "1": {
+      "year": "1988",
+      "team": "Chicago Bulls"
+    },
+    "2": {
+      "year": "1996",
+      "team": "Chicago Bulls"
+    },
+    "3": {
+      "year": "1998",
+      "team": "Chicago Bulls"
+    }
+  }
+}
